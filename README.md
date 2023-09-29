@@ -10,11 +10,11 @@ The repository contains notebook, script and pdf files as required for the test 
 ## Getting Started 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tawhidwasik08/[repo_name].git
+   git clone https://github.com/tawhidwasik08/itgd-test.git
    ```
 2. Move into project directory in command line
     ```bash 
-    cd repo-name/
+    cd itgd-test/
     ```
 3. Create a new python virtual environment
     ```bash
