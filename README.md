@@ -55,7 +55,7 @@ The repository contains notebook, script and pdf files as required for the test 
 - `Get post info by id`: Returns post information based on the provided post ID.
 - `Get all posts for a user`: Returns a list of all posts associated with a specific user.
 - `Update post`: Updates the title and text of an existing post based on its ID.
-- `Delete post`: Deletes a post based on its ID.
+- `Delete post`: Deletes a post based on its ID. Also deletes all the posts associated with the user.
 6. `See current db tables`: View all data from each table
 
 ## Task 3
