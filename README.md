@@ -19,15 +19,15 @@ The repository contains notebook, script and pdf files as required for the test 
     ```
 3. Create a new python virtual environment
     ```bash
-      python -m venv itgd_venv
+    python -m venv itgd_venv
      ```
 4. Activate the virtual environment (for windows)
     ```bash
-      itgd_venv\Scripts\Activate.bat
+    itgd_venv\Scripts\Activate.bat
      ```
 5. Run the following command to install all the required pacakges
       ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
       ```
 6. For each file to run kindly look in the following sections.
 
