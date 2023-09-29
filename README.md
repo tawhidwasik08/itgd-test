@@ -6,7 +6,7 @@ The repository contains notebook, script and pdf files as required for the test 
 - [Task 1](#task-1)
 - [Task 2](#task-2)
 - [Task 3](#task-3)
-- For explaination for Task 2 and 3, please refer to `Task Explanation Document.pdf`. For task 1, the notebook contains explanation.
+- For explanation for Task 2 and 3, please refer to `Task Explanation Document.pdf`. For task 1, the notebook contains explanation.
 
 ## Getting Started 
 1. Clone the repository:
